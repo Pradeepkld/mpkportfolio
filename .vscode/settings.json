@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/4ae50ac9-db4a-4ae9-a045-c11aefaec58c/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/mpkportfolio",
+    "appService.deploySubpath": ".next"
+}
